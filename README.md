@@ -23,6 +23,7 @@ cd
 5. Clone the .dotfiles folder using ssh: ``
 
 ```bash
+cd
 git clone git@github-alvarosainzpardo.com:alvarosainzpardo/.dotfiles.git
 ```
 
