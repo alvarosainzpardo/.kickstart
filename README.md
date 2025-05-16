@@ -20,3 +20,9 @@ cd
 ```
 
 4. Copy the files in the credentials archive folder to the `~/.ssh` folder
+5. Now, you can clone the oher repos and work with them using ssh urls. For example, to clone the `.dotfiles`repo:
+
+```bash
+cd
+git clone git@github-alvarosainzpardo.com:alvarosainzpardo/.dotfiles.git
+```
