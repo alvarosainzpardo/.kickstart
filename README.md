@@ -14,7 +14,7 @@ git clone https://github.com/alvarosainzpardo/.kickstart.git
 3. Create symbolic links in the home directory for `~/.gitconfig`, `~/.gitignore`and the `~/.ssh` folder:
 
 ```bash
-cd .kickstart
+cd ~/.kickstart
 stow git ssh
 cd
 ```
