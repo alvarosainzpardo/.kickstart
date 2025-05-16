@@ -1,7 +1,0 @@
-[user]
-	name = Alvaro Sainz-Pardo
-	email = alvarosainzpardo@gmail.com
-[core]
-	autocrlf = input
-	safecrlf = true
-	excludesfile = /home/asainz/.gitignore_global
