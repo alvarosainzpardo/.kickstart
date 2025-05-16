@@ -7,6 +7,7 @@ Kickstart config files for git and ssh
 2. Clone repo:
 
 ```bash
+cd
 git clone https://github.com/alvarosainzpardo/.kickstart.git
 ```
 
