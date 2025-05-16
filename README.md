@@ -20,11 +20,3 @@ cd
 ```
 
 4. Copy the files in the credentials archive folder to the `~/.ssh` folder
-5. Clone the .dotfiles folder using ssh: ``
-
-```bash
-cd
-git clone git@github-alvarosainzpardo.com:alvarosainzpardo/.dotfiles.git
-```
-
-6. Follow the instructions in the .dotfiles folder
