@@ -9,7 +9,7 @@ Kickstart config files for git and ssh
 
 ```bash
 $ cd .kickstart
-$ stow .
+$ stow *
 ```
 
 The above stow command creates symbolic links in the home directory for `~/.gitconfig`, `~/.gitignore`and `~/.ssh` folder.
