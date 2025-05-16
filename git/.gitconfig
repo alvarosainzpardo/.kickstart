@@ -4,4 +4,4 @@
 [core]
 	autocrlf = input
 	safecrlf = true
-	excludesfile = /home/asainz/.gitignore_global
+	excludesfile = ~/.gitignore_global
