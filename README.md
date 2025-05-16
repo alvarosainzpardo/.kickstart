@@ -12,8 +12,8 @@ $ cd .kickstart
 $ stow .
 ```
 
-The above commands create symbolic links in the home directory for `~/.gitconfig`, `~/.gitignore`and `~/.ssh` folder.
+The above stow command creates symbolic links in the home directory for `~/.gitconfig`, `~/.gitignore`and `~/.ssh` folder.
 
 4. Copy the files in the credentials archive folder to the `~/.ssh` folder
-5. Clone the .dotfiles folder using ssh: `git clone 
+5. Clone the .dotfiles folder using ssh: `git clone git@github-alvarosainpardo.com:alvarosainzpardo/.dotfiles.git`
 6. Follow the instructions in the .dotfiles folder
