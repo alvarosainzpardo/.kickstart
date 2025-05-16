@@ -3,7 +3,7 @@ Kickstart config files for git and ssh
 
 ## Use
 
-1. Install git (if not installed) and GNU stow
+1. Install git and GNU stow (if not installed)
 2. Clone repo:
 
 ```bash
