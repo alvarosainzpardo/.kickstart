@@ -1,5 +1,5 @@
 # .kickstart
-Kickstart config files for git and ssh
+Personal kickstart config files for git and ssh
 
 ## Use
 
